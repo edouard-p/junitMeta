@@ -50,7 +50,7 @@
         <dependency>
             <groupId>org.squashtest.ta.galaxia</groupId>
             <artifactId>squash-tf-galaxia-annotations</artifactId>
-            <version>${galaxia.annotation.version}</version>
+            <version>1.0.0.IT2</version>
         </dependency>
     </dependencies>    
   
